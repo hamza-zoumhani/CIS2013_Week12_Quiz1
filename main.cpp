@@ -1,4 +1,7 @@
 #include <iostream>
+#include "game.cpp"
+#include "mine_sweeper.cpp"
+
 
 using namespace std;
 
