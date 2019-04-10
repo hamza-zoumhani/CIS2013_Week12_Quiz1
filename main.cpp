@@ -6,6 +6,7 @@
 using namespace std;
 
 int main(){
+	Game mine_sweeper;
 	
 	
 	return 0;

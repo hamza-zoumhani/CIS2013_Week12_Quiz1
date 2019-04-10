@@ -9,6 +9,7 @@ class Game{
 		int score;
 		
 	public:
+	
 		Game{
 			set_name("Unknown");
 			set_score("0");
@@ -21,8 +22,8 @@ class Game{
 		
 		
 		
-		string get_name{ return name;}
-		int get_score{ return score;}
+		string get_name(){ return name;}
+		int get_score(){ return score;}
 		
 		void set_name(string n){name=n;}
 		void set_score(int s){score=s;}
